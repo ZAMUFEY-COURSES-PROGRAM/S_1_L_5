@@ -1,0 +1,9 @@
+Z:\CodeCrafters\Labs II\SECTION 1\Lap_5\bin\Debug\Lap_5.exe.config
+Z:\CodeCrafters\Labs II\SECTION 1\Lap_5\bin\Debug\Lap_5.exe
+Z:\CodeCrafters\Labs II\SECTION 1\Lap_5\bin\Debug\Lap_5.pdb
+Z:\CodeCrafters\Labs II\SECTION 1\Lap_5\obj\Debug\Lap_5.csproj.AssemblyReference.cache
+Z:\CodeCrafters\Labs II\SECTION 1\Lap_5\obj\Debug\Lap_5.Properties.Resources.resources
+Z:\CodeCrafters\Labs II\SECTION 1\Lap_5\obj\Debug\Lap_5.csproj.GenerateResource.cache
+Z:\CodeCrafters\Labs II\SECTION 1\Lap_5\obj\Debug\Lap_5.csproj.CoreCompileInputs.cache
+Z:\CodeCrafters\Labs II\SECTION 1\Lap_5\obj\Debug\Lap_5.exe
+Z:\CodeCrafters\Labs II\SECTION 1\Lap_5\obj\Debug\Lap_5.pdb
